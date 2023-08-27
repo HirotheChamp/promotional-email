@@ -1,14 +1,18 @@
 <mj-raw>
     <!-- Header -->
 </mj-raw>
-    <mj-section css-class="header section-padding">
-        <mj-column>
+    <mj-section css-class="top-brown" padding="0">
+       
+    </mj-section>
+    <mj-section css-class="section-padding">
+          <mj-column>
             <mj-image 
-            width="121px" 
-            align="left" 
-            src="https://i.imgur.com/PejeZke.png" 
-            href="https://shopify.com" 
-            alt="shopify logo"
+            width="150px" 
+            align="center" 
+            src="https://i.imgur.com/WoMPpqY.png" 
+            href="https://www.apparel.com/" 
+            alt="apparel"
+            padding-top="0"
             />
         </mj-column>
     </mj-section>

@@ -1,47 +1,66 @@
 <mj-raw>
-    <!-- Footer -->
+  <!-- Footer -->
 </mj-raw>
-<mj-wrapper css-class="footer" padding="0">
-        <mj-section padding="0">
-          <mj-group css-class="icons-size">
-            <mj-column padding="0">
-              <mj-image padding="0 5px" href="https://facebook.com/shopify" src="https://i.imgur.com/GPER6MX.png" alt="facebook" width="27px" height="27px" />
-            </mj-column>
-            <mj-column padding="0">
-              <mj-image padding="0 5px" href="https://twitter.com/shopify" src="https://i.imgur.com/tjxotGr.png" alt="twitter" width="27px" height="27px" />
-            </mj-column>
-            <mj-column padding="0">
-              <mj-image padding="0 5px" href="https://instagram.com/shopify" src="https://i.imgur.com/FVDuy58.png" alt="instagram" width="27px" height="27px" />
-            </mj-column>
-            <mj-column padding="0">
-              <mj-image padding="0 5px" href="https://snapchat.com/shopify" src="https://i.imgur.com/83jpB6U.png" alt="snapchat" width="27px" height="27px" />
-            </mj-column>
-            <mj-column padding="0">
-              <mj-image padding="0 5px" href="https://linkedin.com/shopify" src="https://i.imgur.com/f9ie3rz.png" alt="linkedin" width="27px" height="27px" />
-            </mj-column>
-            <mj-column padding="0">
-              <mj-image padding="0 5px" href="https://pinterest.com/shopify" src="https://i.imgur.com/ocFVK5p.png" alt="pinterest" width="27px" height="27px" />
-            </mj-column>
-            <mj-column padding="0">
-              <mj-image padding="0 5px" href="https://youtube.com/shopify" src="https://i.imgur.com/JhmMWtS.png" alt="youtube" width="27px" height="27px" />
-            </mj-column>
-          </mj-group>
-        </mj-section>
 
-        <mj-section padding="20px 0 0">
-     <mj-column padding="0">
-      <mj-text font-size="10px" align="center">
-        &copy; Shopify, 151 O' Connor Street, Ground floor, Ottawa ON, K2P 2L8
-      </mj-text>
-     </mj-column>
-        </mj-section>
-        
-        <mj-section padding="0 0 60px">
-     <mj-column padding="0">
-      <mj-text font-size="10px" align="center">
-        <a href="#" class="footer-links">Unsubscribe</a> |  
-        <a href="#" class="footer-links">Manage Your Email Preferences</a>
-      </mj-text>
-     </mj-column>
-        </mj-section>
-      </mj-wrapper>
+<mj-section padding="0" css-class="footer-menu">
+
+  <mj-column padding="0">
+    <mj-section css-class="menu-border" padding="0">
+  <mj-text width="100%" font-size="22px" align="center">
+      NEW ARRIVALS
+    </mj-text>
+    </mj-section>
+  
+    
+    <mj-section css-class="menu-border" padding="0">
+ <mj-text font-size="22px" align="center">
+      SHOP MENS
+    </mj-text>
+    </mj-section>
+   
+    <mj-section css-class="menu-border" padding="0">
+ <mj-text font-size="22px" align="center" padding="5px">
+      SHOP WOMENS
+    </mj-text>
+    </mj-section>
+   
+    <mj-section css-class="menu-border" padding="0">
+   <mj-text font-size="22px" align="center">
+      ACCESSORIES
+    </mj-text>
+    </mj-section>
+ 
+    <mj-section css-class="menu-border" padding="0">
+ <mj-column padding="0">
+        <mj-image padding="0" href="https://facebook.com/" src="https://i.imgur.com/2khaepT.png" alt="facebook"  width="27px" height="27px" />
+
+
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0" href="https://twitter.com/" src="https://i.imgur.com/n7FhyIs.png" alt="twitter" width="27px" height="27px" />
+      </mj-column>
+      <mj-column>
+        <mj-image  padding="0" href="https://youtube.com/" src="https://i.imgur.com/ENGrlwT.png" alt="youtube" width="27px" height="27px" />
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0" href="https://instagram.com/" src="https://i.imgur.com/WFxn1y4.png" alt="instagram" width="27px" height="27px" />
+      </mj-column>
+    </mj-section>
+   
+    </mj-column>
+</mj-section>
+<mj-section css-class="top-brown" padding="0">
+       
+    </mj-section>
+ 
+
+
+     
+
+
+ 
+
+
+
+
+
