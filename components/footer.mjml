@@ -31,6 +31,9 @@
     </mj-section>
  
     <mj-section css-class="menu-border" padding="0">
+    <mj-group>
+      
+   
  <mj-column padding="0">
         <mj-image padding="0" href="https://facebook.com/" src="https://i.imgur.com/2khaepT.png" alt="facebook"  width="27px" height="27px" />
 
@@ -45,6 +48,7 @@
       <mj-column>
         <mj-image padding="0" href="https://instagram.com/" src="https://i.imgur.com/WFxn1y4.png" alt="instagram" width="27px" height="27px" />
       </mj-column>
+       </mj-group>
     </mj-section>
    
     </mj-column>
